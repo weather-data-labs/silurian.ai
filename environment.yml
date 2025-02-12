@@ -1,0 +1,15 @@
+name: wdl-silurian
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xarray
+  - rasterio
+  - rioxarray
+  - gdal
+  - cfgrib
+  - numpy
+  - pandas
+  - pyresample
+  - zarr
+  - pip
